@@ -26,7 +26,7 @@
 ### 1.1 Yüksek Konsept
 *"Football Manager ile Mad Men'in buluşması"*
 
-Dijital Pazarlama Müdürü 25, oyuncuların bir dijital ajansın Pazarlama Müdürü rolüne büründüğü derin bir yönetim simülasyonudur. Oyuncular, yaratıcılık ile analitik arasında denge kurmalı, kampanyaları yönetmeli, ekipler oluşturmalı, yönetim kurulunun beklentilerini karşılamalı ve birden fazla sezon boyunca dinamik dijital pazarlama dünyasında yol almalıdır.
+Digital Marketing Manager 2026, oyuncuların bir dijital ajansın Pazarlama Müdürü rolüne büründüğü derin bir yönetim simülasyonudur. Oyuncular, yaratıcılık ile analitik arasında denge kurmalı, kampanyaları yönetmeli, ekipler oluşturmalı, yönetim kurulunun beklentilerini karşılamalı ve birden fazla sezon boyunca dinamik dijital pazarlama dünyasında yol almalıdır.
 
 ### 1.2 Ana İlkeler
 1. **Stratejik Karar Verme**: Her seçim önemlidir
@@ -1179,17 +1179,8 @@ setInterval(() => {
 - Ndemic Creations (Plague Inc.)
 
 **Geliştirme Ekibi:**
-- Tasarım ve Programlama: [Adınız]
+- Tasarım ve Programlama: Cihan Türker
 - UI/UX Tasarım: Glassmorphism.com ilhamı
 - İkonlar: Lucide React
 - 3D Grafikler: React Three Fiber
 
----
-
-**Doküman Versiyonu:** 1.0  
-**Son Güncelleme:** 20 Kasım 2025  
-**Durum:** Yaşayan Doküman - Güncellemelere tabi
-
----
-
-*Bu Oyun Tasarım Dokümanı, Dijital Pazarlama Müdürü 25 için plan görevi görmektedir. Geliştirme ilerledikçe ve oyuncu geri bildirimleri dahil edildikçe gelişecek yaşayan bir dokümandır.*
