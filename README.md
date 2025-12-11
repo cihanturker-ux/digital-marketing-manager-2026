@@ -1,4 +1,4 @@
-# DIGITAL MARKETING MANAGER 2026 (DPM26)
+# DIGITAL MARKETING MANAGER 2026 (DMM26)
 ## GAME DEVELOPMENT DOCUMENT (GDD)
 **Versiyon:** 1.0  
 **Tür:** Yönetim Simülasyonu / İş Stratejisi  
